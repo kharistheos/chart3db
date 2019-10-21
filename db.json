@@ -1,0 +1,30 @@
+{
+	"2019-02-23": {
+			"videomades" :  60,
+			"subscriptions" :  60
+		
+		  },
+		"2019-02-24": {
+			"videomades" : 50,
+			"subscriptions" : 20
+		
+		  },
+	"2019-02-25": {
+			"videomades" : 10,
+			"subscriptions" : 10
+		
+		  },
+	"2019-02-26": {
+			"videomades" : 80,
+			"subscriptions" : 90
+		
+		  },
+	"2019-02-27": {
+			"videomades" : 70,
+			"subscriptions" : 50
+		
+		  }
+	
+
+
+}
